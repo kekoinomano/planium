@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575181885998",
+    "firebase_url": "https://plandef-d2436.firebaseio.com",
+    "project_id": "plandef-d2436",
+    "storage_bucket": "plandef-d2436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575181885998:android:5cd87344bcdfc12a5a45bf",
+        "android_client_info": {
+          "package_name": "com.app.planium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575181885998-lcqdoj3do4fptlpsmfcc92fleg1bjco8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhPTWCkKFnNgqgOpb33DAdogPS2QbKaH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575181885998-lcqdoj3do4fptlpsmfcc92fleg1bjco8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
